@@ -1,0 +1,26 @@
+{
+  "name": "twinetron",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "electron-toolkit": "electron ./node_modules/electron-toolkit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogewan/twinetron.git"
+  },
+  "author": "Ogewan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ogewan/twinetron/issues"
+  },
+  "homepage": "https://github.com/ogewan/twinetron#readme",
+  "dependencies": {
+    "electron": "^2.0.2",
+    "electron-builder": "^20.15.1",
+    "electron-toolkit": "^1.0.24",
+    "greenworks": "^0.1.0"
+  }
+}
