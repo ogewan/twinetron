@@ -2,7 +2,7 @@
   "name": "twinetron",
   "version": "0.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "./main.js",
   "scripts": {
     "start": "electron .",
     "electron-toolkit": "electron ./node_modules/electron-toolkit"
